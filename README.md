@@ -50,6 +50,15 @@
 </div>
 
 
+
+  <img src="https://raw.githubusercontent.com/Rishi1808/Shivvy-The-Coder/output/snake.svg" alt="Snake animation" />
+  
+  
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Shivvy-The-Coder/count.svg?"  />
+  </div>
+  
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
