@@ -45,13 +45,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![GitHub Contribution Snake](https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/main/output/github-contribution-grid-snake.svg)
+ <img src="https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
-
-
-
-  <img src="https://raw.githubusercontent.com/Rishi1808/Shivvy-The-Coder/output/snake.svg" alt="Snake animation" />
   
   
   <div align="center">
