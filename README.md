@@ -1,78 +1,84 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shivvy-The-Coder.Shivvy-The-Coder" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Das!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Das!;" />
 </h1>
 
-<h3 align="center">A passionate Software & Web Developer from Jharkhand, India 🇮🇳</h3>
+<h3 align="center">A passionate software/web developer from India,JH 🇮🇳 </h3>
 
----
+<br/>
 
 <div align="center">
+ 
+ 🔭 I’m currently pursuing MCA IN **Birla Institute of Technology**
+ 
+ 🌱 I’m currently learning **MERN, JAVA+DSA,DBMS**
 
-🎓 Pursuing MCA at **Birla Institute of Technology**  
-🌱 Currently learning: **MERN Stack | Java + DSA | DBMS**  
-⚡ Fun Fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs* 😄
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 </div>
 
----
-
-### 📫 Connect with Me
-
-<div align="center">
+<div align="center"> 
   <a href="mailto:krshivam979@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/shivam-das-0155b82aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://myportfoliopagess.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
----
+<hr/>
 
-## ⚒️ Languages, Frameworks & Tools
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,firebase,java,c,mysql,python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,Tailwind,HTML,CSS,VS Code,Github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
----
-
-## 🐍 My Contributions
+<br/>
+<hr/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake.svg" alt="Snake animation" />
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ <img src="https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake.svg" alt="Snake animation" />
+  <br/><br/><br/>
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+  
+  
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Shivvy-The-Coder/count.svg?"  />
+  </div>
+  
+  
 
-## 📊 GitHub Stats
+<hr/>
 
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shivvy-The-Coder&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shivvy-The-Coder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shivvy-The-Coder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shivvy-The-Coder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shivvy-The-Coder&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
+<br/><br/>
 
-## 📈 Visitor Count
+<hr/>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Shivvy-The-Coder/count.svg?" />
-</div>
-
----
-
-## ☕ Support Me
+<br/>
 
 <div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
