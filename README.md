@@ -19,19 +19,15 @@
 ---
 
 ### 📫 Connect with Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake.svg" />
+</picture>
 
-<div align="center"> 
-  <a href="mailto:krshivam979@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-das-0155b82aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://myportfoliopagess.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
-</div>
+---
 
+![Snake animation gif](https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake.gif)
 ---
 
 ## ⚒️ Languages, Frameworks & Tools
