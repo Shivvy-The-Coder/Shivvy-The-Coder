@@ -39,39 +39,31 @@
 ---
 
 ## ☕ Support Me
-
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
   <!-- Card 1 -->
-  <div style="background-color:#4caf50; color:white; padding:15px 20px; border-radius:12px; width:200px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
-    <a href="https://ko-fi.com/V7V4RAK9C" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-size:16px;">
-      💛 Support My Work
-    </a>
-    <p style="margin-top:8px; font-size:13px;">
-      Your support helps me build more amazing projects!
+  <div style="background-color:#4caf50; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+    <h3 style="margin:0; font-size:18px;">💛 Support My Work</h3>
+    <p style="margin-top:10px; font-size:14px;">
+      Your encouragement helps me create amazing projects.
     </p>
   </div>
 
   <!-- Card 2 -->
-  <div style="background-color:#ff9800; color:white; padding:15px 20px; border-radius:12px; width:200px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
-    <a href="https://ko-fi.com/V7V4RAK9C" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-size:16px;">
-      🚀 Contribute
-    </a>
-    <p style="margin-top:8px; font-size:13px;">
-      Help me continue creating open-source projects!
+  <div style="background-color:#ff9800; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+    <h3 style="margin:0; font-size:18px;">🚀 Contribute</h3>
+    <p style="margin-top:10px; font-size:14px;">
+      Your support motivates me to improve and innovate continuously.
     </p>
   </div>
 
   <!-- Card 3 -->
-  <div style="background-color:#2196f3; color:white; padding:15px 20px; border-radius:12px; width:200px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
-    <a href="https://ko-fi.com/V7V4RAK9C" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-size:16px;">
-      ✨ Support Innovation
-    </a>
-    <p style="margin-top:8px; font-size:13px;">
-      Your contributions inspire me to keep improving and innovating!
+  <div style="background-color:#2196f3; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+    <h3 style="margin:0; font-size:18px;">✨ Inspire Innovation</h3>
+    <p style="margin-top:10px; font-size:14px;">
+      Every bit of encouragement drives me to create better projects.
     </p>
   </div>
 
 </div>
-
 
