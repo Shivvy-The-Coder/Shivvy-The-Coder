@@ -31,8 +31,9 @@
 ---
 
 ## 📈 Visitor Count
+
 <div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Shivvy-The-Coder&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=Shivvy-The-Coder&style=flat-square" alt="Visitor Count" />
 </div>
 
 
