@@ -39,23 +39,25 @@
 ---
 
 ## ☕ Support Me
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
 
   <!-- Card 1 -->
-  <div style="background-color: #4caf50; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+  <div style="background: linear-gradient(135deg, #4caf50, #81c784); color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 6px 12px rgba(0,0,0,0.25); text-align:center; transition: transform 0.2s;">
     <h3 style="margin:0; font-size:18px;">💛 Support My Work</h3>
+    <p style="margin-top:10px; font-size:14px;">Your encouragement helps me create amazing projects.</p>
   </div>
 
   <!-- Card 2 -->
-  <div style="background-color: #ff9800; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+  <div style="background: linear-gradient(135deg, #ff9800, #ffc107); color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 6px 12px rgba(0,0,0,0.25); text-align:center; transition: transform 0.2s;">
     <h3 style="margin:0; font-size:18px;">🚀 Contribute</h3>
+    <p style="margin-top:10px; font-size:14px;">Your support motivates me to improve and innovate continuously.</p>
   </div>
 
   <!-- Card 3 -->
-  <div style="background-color: #2196f3; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+  <div style="background: linear-gradient(135deg, #2196f3, #64b5f6); color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 6px 12px rgba(0,0,0,0.25); text-align:center; transition: transform 0.2s;">
     <h3 style="margin:0; font-size:18px;">✨ Inspire Innovation</h3>
+    <p style="margin-top:10px; font-size:14px;">Every bit of encouragement drives me to create better projects.</p>
   </div>
 
 </div>
-
-
