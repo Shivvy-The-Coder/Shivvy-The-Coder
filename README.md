@@ -31,9 +31,9 @@
 ---
 
 ## 📈 Visitor Count
-
-![Hits](https://hits.sh/github.com/Shivvy-The-Coder.svg?style=for-the-badge&label=Visitors)
-
+<div align="center">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Shivvy-The-Coder&style=flat-square)
+</div>
 
 
 
