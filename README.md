@@ -34,6 +34,26 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shivvy-The-Coder&color=blue&style=flat-square)
 
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shivvy-The-Coder&color=blue&style=flat-square)
+👉 Shows a badge like “👀 x views”.
+
+Hits.sh counter (minimalistic number counter)
+
+md
+Copy code
+![Hits](https://hits.sh/github.com/Shivvy-The-Coder.svg?style=for-the-badge&label=Visitors)
+👉 This shows the number of visitors as a badge.
+
+Shields.io custom counter (static look, no tracking)
+
+md
+Copy code
+![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&
+
+
+
 ---
 
 ## ⚡ GitHub Stats
