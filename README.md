@@ -40,31 +40,38 @@
 
 ## ☕ Support Me
 
-<div align="center">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
-    <img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support me on Ko-fi" style="border-radius:12px;"/>
-  </a>
-  <p style="margin-top: 8px; font-size: 14px; color: #333;">
-    If you like my work, consider supporting me with a coffee ☕
-  </p>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+
+  <!-- Card 1 -->
+  <div style="background-color:#4caf50; color:white; padding:15px 20px; border-radius:12px; width:200px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    <a href="https://ko-fi.com/V7V4RAK9C" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-size:16px;">
+      💛 Support My Work
+    </a>
+    <p style="margin-top:8px; font-size:13px;">
+      Your support helps me build more amazing projects!
+    </p>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="background-color:#ff9800; color:white; padding:15px 20px; border-radius:12px; width:200px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    <a href="https://ko-fi.com/V7V4RAK9C" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-size:16px;">
+      🚀 Contribute
+    </a>
+    <p style="margin-top:8px; font-size:13px;">
+      Help me continue creating open-source projects!
+    </p>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="background-color:#2196f3; color:white; padding:15px 20px; border-radius:12px; width:200px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    <a href="https://ko-fi.com/V7V4RAK9C" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-size:16px;">
+      ✨ Support Innovation
+    </a>
+    <p style="margin-top:8px; font-size:13px;">
+      Your contributions inspire me to keep improving and innovating!
+    </p>
+  </div>
+
 </div>
 
-
-<div align="center" style="background-color:#1e1e1e; padding:15px; border-radius:12px; width:fit-content; margin:auto;">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
-    <img height="60" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support me on Ko-fi"/>
-  </a>
-  <p style="margin-top:6px; color:#fff; font-size:14px;">
-    Appreciate my work? Buy me a coffee and help me keep creating ☕
-  </p>
-</div>
-
-<div align="center">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
-    <img height="64" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Support me on Ko-fi" />
-  </a>
-  <p style="margin-top:8px; font-size:14px; color:#444;">
-    Enjoying my projects? Your support fuels more awesome work! 💛
-  </p>
-</div>
 
