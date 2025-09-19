@@ -44,25 +44,16 @@
   <!-- Card 1 -->
   <div style="background-color:"green"; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
     <h3 style="margin:0; font-size:18px;">💛 Support My Work</h3>
-    <p style="margin-top:10px; font-size:14px;">
-      Your encouragement helps me create amazing projects.
-    </p>
   </div>
 
   <!-- Card 2 -->
   <div style="background-color:"green"; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
     <h3 style="margin:0; font-size:18px;">🚀 Contribute</h3>
-    <p style="margin-top:10px; font-size:14px;">
-      Your support motivates me to improve and innovate continuously.
-    </p>
   </div>
 
   <!-- Card 3 -->
   <div style="background-color:"green"; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
     <h3 style="margin:0; font-size:18px;">✨ Inspire Innovation</h3>
-    <p style="margin-top:10px; font-size:14px;">
-      Every bit of encouragement drives me to create better projects.
-    </p>
   </div>
 
 </div>
