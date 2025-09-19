@@ -42,6 +42,7 @@
 </picture>
 
 ![Snake animation](https://raw.githubusercontent.com/Shivvy-The-Coder/snk/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Shivvy-The-Coder/snk/output/github-contribution-grid-snake-transparent.svg)
 
 
 
