@@ -42,19 +42,20 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
   <!-- Card 1 -->
-  <div style="background-color:"green"; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+  <div style="background-color: #4caf50; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
     <h3 style="margin:0; font-size:18px;">💛 Support My Work</h3>
   </div>
 
   <!-- Card 2 -->
-  <div style="background-color:"green"; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+  <div style="background-color: #ff9800; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
     <h3 style="margin:0; font-size:18px;">🚀 Contribute</h3>
   </div>
 
   <!-- Card 3 -->
-  <div style="background-color:"green"; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
+  <div style="background-color: #2196f3; color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 4px 8px rgba(0,0,0,0.2); text-align:center;">
     <h3 style="margin:0; font-size:18px;">✨ Inspire Innovation</h3>
   </div>
 
 </div>
+
 
