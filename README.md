@@ -27,19 +27,6 @@
 ## 🐍 My Contributions
 ![Snake animation](https://raw.githubusercontent.com/Shivvy-The-Coder/snk/output/github-contribution-grid-snake-dark.svg)
 
-
----
-
-## 📈 Visitor Count
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivvy-The-Coder&style=flat-square" alt="Visitor Count" />
-</div>
-
-
-
----
-
 ## ⚡ GitHub Stats
 
 <div align="center">
