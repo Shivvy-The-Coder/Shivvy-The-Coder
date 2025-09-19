@@ -19,7 +19,7 @@
 ## ⚒️ Languages, Frameworks & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,bootstrap,tailwind,firebase,java,c,mysql,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,bootstrap,tailwind,firebase,java,c,mysql,python,git,github,vscode,postgresql" />
 </div>
 
 ---
