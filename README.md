@@ -28,17 +28,11 @@
 ![Snake animation](https://raw.githubusercontent.com/Shivvy-The-Coder/snk/output/github-contribution-grid-snake-dark.svg)
 
 
-
-
-
-
 ---
 
 ## 📈 Visitor Count
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Shivvy-The-Coder/count.svg?" />
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=Shivvy-The-Coder&color=blue&style=flat-square)
 
 ---
 
