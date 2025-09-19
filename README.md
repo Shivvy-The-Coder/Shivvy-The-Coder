@@ -40,24 +40,43 @@
 
 ## ☕ Support Me
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+<!-- 🐍 Contributions -->
+<table align="center">
+  <tr>
+    <!-- Snake animation -->
+    <td align="center" style="padding:10px; vertical-align:top;">
+      <h3>🐍 My Contributions</h3>
+      <img src="https://raw.githubusercontent.com/Shivvy-The-Coder/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="300"/>
+    </td>
 
-  <!-- Card 1 -->
-  <div style="background: linear-gradient(135deg, #4caf50, #81c784); color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 6px 12px rgba(0,0,0,0.25); text-align:center; transition: transform 0.2s;">
-    <h3 style="margin:0; font-size:18px;">💛 Support My Work</h3>
-    <p style="margin-top:10px; font-size:14px;">Your encouragement helps me create amazing projects.</p>
-  </div>
+    
+    <td align="center" style="padding:10px; vertical-align:top;">
+      <h3>⚡ GitHub Stats</h3>
+      <img width="300" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shivvy-The-Coder&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+      <br/>
+      <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shivvy-The-Coder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+      <br/>
+      <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shivvy-The-Coder&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+    </td>
 
-  <!-- Card 2 -->
-  <div style="background: linear-gradient(135deg, #ff9800, #ffc107); color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 6px 12px rgba(0,0,0,0.25); text-align:center; transition: transform 0.2s;">
-    <h3 style="margin:0; font-size:18px;">🚀 Contribute</h3>
-    <p style="margin-top:10px; font-size:14px;">Your support motivates me to improve and innovate continuously.</p>
-  </div>
-
-  <!-- Card 3 -->
-  <div style="background: linear-gradient(135deg, #2196f3, #64b5f6); color:white; padding:20px; border-radius:12px; width:220px; box-shadow:0 6px 12px rgba(0,0,0,0.25); text-align:center; transition: transform 0.2s;">
-    <h3 style="margin:0; font-size:18px;">✨ Inspire Innovation</h3>
-    <p style="margin-top:10px; font-size:14px;">Every bit of encouragement drives me to create better projects.</p>
-  </div>
-
-</div>
+    <!-- Support Me -->
+    <td align="center" style="padding:10px; vertical-align:top;">
+      <h3>☕ Support Me</h3>
+      <table>
+        <tr>
+          <td align="center" style="background:#4caf50; color:white; padding:20px; border-radius:12px; width:150px;">
+            💛 Support My Work
+          </td>
+          <td style="width:10px;"></td>
+          <td align="center" style="background:#ff9800; color:white; padding:20px; border-radius:12px; width:150px;">
+            🚀 Contribute
+          </td>
+          <td style="width:10px;"></td>
+          <td align="center" style="background:#2196f3; color:white; padding:20px; border-radius:12px; width:150px;">
+            ✨ Inspire Innovation
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
