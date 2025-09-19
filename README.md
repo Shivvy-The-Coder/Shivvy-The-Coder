@@ -16,15 +16,6 @@
 
 </div>
 
----
-
-
-
----
-
-![Snake animation gif](https://raw.githubusercontent.com/Shivvy-The-Coder/Shivvy-The-Coder/output/snake.gif)
----
-
 ## ⚒️ Languages, Frameworks & Tools
 
 <div align="center">
